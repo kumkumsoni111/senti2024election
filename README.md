@@ -9,6 +9,10 @@ Sentiment Analysis of Public Opinion Poll for Election 2024
 This project focuses on conducting sentiment analysis of public opinion polls and opinions collected from YouTube comments regarding the 2024 election. Initially, sentiment analysis was performed on public opinion polls, followed by sentiments extracted from YouTube comments. The sentiment analysis aimed to gauge public sentiment towards Narendra Modi and the BJP government, identifying whether sentiments were positive, negative, or neutral. Various machine learning models were employed for analysis, including logistic regression, SVM, decision tree classifier, XGBoost classifier, and random forest classifier. Notably, the random forest classifier achieved the highest accuracy of approximately 72%. The project utilizes two datasets: one for model training, containing public opinion data for Narendra Modi from 2019, and another for prediction, consisting of 2024 data to determine the sentiment and assess the likelihood of Narendra Modi's candidacy in the 2024 Lok Sabha elections. 
 
 
+##Conclusion:
+
+After conducting sentiment analysis on data from 2019 and predicting sentiments for the 2024 Lok Sabha elections, the analysis suggests a high probability of Narendra Modi and the BJP government winning once again in the upcoming election. This conclusion is drawn from observing patterns and results obtained from analyzing sentiments and opinions expressed in 2019. While the analysis primarily relied on YouTube comments, it's worth noting that opinions from various platforms such as Twitter may provide additional insights and demographic variations. However, based on the sentiment analysis of comment data, it can be inferred that Modi enjoys significant favorability.
+
 #Datasets : 
 
 There are two datasets:
